@@ -16,8 +16,7 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 
 **Tampilan Awal Form**
 *(Letakkan screenshot tampilan form kosong di sini)*
-![Tampilan Form](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbf80390-0648-4fb0-8d54-48614b089179" />
-)
+![Tampilan Form]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbf80390-0648-4fb0-8d54-48614b089179" />
 
 **Tampilan Setelah Pendaftaran Berhasil**
 *(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
